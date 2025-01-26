@@ -23,7 +23,7 @@
 - Fully supported plane, sphere, and cylinder, plus bonus features like reflections and color patterns.  
 - Achieved a final mark of **125%**.
 
-### minishell
+### [minishell](https://github.com/Agrippa2023/minishell)
 - Custom shell in C supporting redirections, pipes, and custom signals.  
 - Used `readline`, `fork`, and many other Linux system calls.  
 - Achieved a final mark of **101%**.
