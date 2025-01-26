@@ -40,7 +40,7 @@
   - Microservices-based backend
 
 ### Currently Learning
-- Deepening Kubernetes and low-latency programming expertise.
+- Kubernetes and low-latency programming.
 
 ### Additional Kernel Projects
 - **ft_linux**: Building a functional Linux distro from scratch.  
@@ -48,8 +48,8 @@
 - **little-penguin-1**: Linux kernel programming challenges, drivers, and subsystem maintenance.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrippa2023&show_icons=true&locale=en&layout=compact" alt="agrippa2023" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrippa2023&show_icons=true&locale=en&layout=compact" alt="agrippa2023" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agrippa2023&show_icons=true&locale=en" alt="agrippa2023" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=agrippa2023&" alt="agrippa2023" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agrippa2023&" alt="agrippa2023" /></p>
