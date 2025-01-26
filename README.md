@@ -17,7 +17,7 @@
 
 ## Notable 42Paris Projects
 
-### miniRT
+### [miniRT] (https://github.com/Agrippa2023/miniRT)
 - Generate images using Raytracing with the **MiniLibX**.  
 - Scene specification uses the “.rt” format.  
 - Fully supported plane, sphere, and cylinder, plus bonus features like reflections and color patterns.  
