@@ -28,7 +28,7 @@
 - Used `readline`, `fork`, and many other Linux system calls.  
 - Achieved a final mark of **101%**.
 
-### ft_transcendence
+### [ft_transcendence](https://github.com/Agrippa2023/ft_transcendence)
 - Real-time Pong-like web app, with user tournaments, AI opponents, and advanced security.  
 - Achieved a final mark of **125%**.  
 - **Modules I developed independently**:  
