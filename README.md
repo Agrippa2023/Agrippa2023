@@ -40,7 +40,7 @@
   - Microservices-based backend
 
 ### Currently Learning
-- Deepening Kubernetes and low-latency programming expertise.
+- Kubernetes and low-latency programming.
 
 ### Additional Kernel Projects
 - **ft_linux**: Building a functional Linux distro from scratch.  
