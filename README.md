@@ -32,20 +32,25 @@
 - Real-time Pong-like web app, with user tournaments, AI opponents, and advanced security.  
 - Achieved a final mark of **125%**.  
 - **Modules I developed independently**:  
-  - Framework-based backend  
+  - Framework-based backend  (Django)
   - Standard user management and authentication  
   - Remote authentication  
   - GDPR compliance (user anonymization, data management, account deletion)  
   - Two-Factor Authentication (2FA) with JWT  
   - Microservices-based backend
 
-### Currently Learning
-- Kubernetes and low-latency programming.
-
-### Additional Kernel Projects
+## Currently working on the following 42Paris Kernel Projects
 - **ft_linux**: Building a functional Linux distro from scratch.  
 - **KFS_1**: Developing a custom kernel loader, linking process, and minimal OS environment.  
 - **little-penguin-1**: Linux kernel programming challenges, drivers, and subsystem maintenance.
+
+## Currently Learning
+
+   - ### [Kernel programming](https://en.wikipedia.org/wiki/Kernel_%28operating_system%29)
+
+   - ### [Kubernetes](https://en.wikipedia.org/wiki/Kubernetes)
+
+   - ### low-latency programming
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrippa2023&show_icons=true&locale=en&layout=compact" alt="agrippa2023" /></p>
